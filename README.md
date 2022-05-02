@@ -1,2 +1,2 @@
 # WebGL2-simple-drawing
-Experimant1
+Experiment1
